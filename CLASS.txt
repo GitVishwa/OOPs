@@ -1,0 +1,2 @@
+Class
+      in real life application,class is a blue print to build something.Let us consider an real time example of empty water bottle,it has the characters like heigth,colour,capacity etc and class does not come into picture untill and unless,it is invoked by an object.
